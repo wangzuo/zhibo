@@ -2,6 +2,7 @@
   "name": "zhibo",
   "version": "0.1.0",
   "main": "index.js",
+  "bin": "cli.js",
   "repository": "git@github.com:wangzuo/zhibo.git",
   "author": "Wang Zuo <wzuoadjusted@gmail.com>",
   "license": "MIT",
