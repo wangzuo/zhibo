@@ -11,6 +11,7 @@
     "jest": "^18.1.0"
   },
   "dependencies": {
+    "normalize-url": "^1.9.0",
     "request": "^2.79.0"
   }
 }
